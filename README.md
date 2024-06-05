@@ -1,4 +1,4 @@
-# Projektarbeit Web-Engineering – Marco Hofer
+# Projektarbeit Web-Engineering <br> Marco Hofer
 
 ## Webseite
 [Web-Engineering_teko](https://marxosan.github.io/Web-Engineering_teko/)
@@ -23,7 +23,7 @@ Es wurde Eleventy gewählt, da dies der Vorschlag des Dozenten Fabian Hirter war
 ## Deployment und Hosting
 
 ### Erreichbarkeit im Internet
-Das Projekt wird übeffffr GitHub Pages deployt, was bedeutet, dass die Website direkt aus dem GitHub-Repository im Internet veröffentlicht wird: <br> [Web-Engineering_teko](https://marxosan.github.io/Web-Engineering_teko/)
+Das Projekt wird über GitHub Pages deployt, was bedeutet, dass die Website direkt aus dem GitHub-Repository im Internet veröffentlicht wird: <br> [Web-Engineering_teko](https://marxosan.github.io/Web-Engineering_teko/)
 
 ### Begründung verwendetes Hosting und Deployment
 **Hosting:** GitHub Pages
@@ -33,3 +33,8 @@ Ich habe GitHub Pages als Hosting gewählt, da es ein kostenloser Hosting-Dienst
 Weitere Vorteile sind automatische Deployments sowie Schnelligkeit und Zuverlässigkeit. Durch das weltweite Content Delivery Network (CDN) von GitHub stellt GitHub Pages sicher, dass die Website von überall auf der Welt schnell geladen wird. Durch die enge Integration mit Git kann jede veröffentlichte Version leicht zurückgesetzt oder geändert werden. Dies ist besonders nützlich, wenn Fehler in einer neuen Version auftreten. GitHub Pages bietet natürlich HTTPS-Unterstützung für alle bereitgestellten Seiten, was die Sicherheit der Website verbessert. GitHub Pages kann mit Static Site Generators verwendet werden, was zusätzliche Flexibilität und Anpassungsmöglichkeiten bietet.
 
 Diese Gründe machen GitHub Pages zu einer ausgezeichneten Wahl für das Hosting und Deployment, insbesondere wenn das Projekt bereits auf GitHub gehostet wird.
+
+## Quellen und Hilfsmittel
+Validatoren (W3C HTML Validator, W3C CSS Validator, PageSpeed Insights) <br>
+Offizielle Dokumentationen (Eleventy, GitHub, GitHub Pages) <br>
+KI-Tools (Teile dieser Dokumentation und Troubleshooting bei Problemen wurden unterstützt von OpenAI ChatGPT)
