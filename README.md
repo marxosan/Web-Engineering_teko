@@ -23,7 +23,7 @@ Es wurde Eleventy gewählt, da dies der Vorschlag des Dozenten Fabian Hirter war
 ## Deployment und Hosting
 
 ### Erreichbarkeit im Internet
-Das Projekt wird über GitHub Pages deployt, was bedeutet, dass die Website direkt aus dem GitHub-Repository im Internet veröffentlicht wird: <br> [Web-Engineering_teko](https://marxosan.github.io/Web-Engineering_teko/)
+Das Projekt wird übeffffr GitHub Pages deployt, was bedeutet, dass die Website direkt aus dem GitHub-Repository im Internet veröffentlicht wird: <br> [Web-Engineering_teko](https://marxosan.github.io/Web-Engineering_teko/)
 
 ### Begründung verwendetes Hosting und Deployment
 **Hosting:** GitHub Pages
