@@ -20,6 +20,8 @@ Ein Static Site Generator (SSG) wie Eleventy oder Hugo bietet zahlreiche Vorteil
 ### Begründung SSG
 Es wurde Eleventy gewählt, da dies der Vorschlag des Dozenten Fabian Hirter war und Eleventy die geforderte Markdown-Sprache unterstützt. Die Nutzung eines Static Site Generators bietet eine Vielzahl von Vorteilen, die von verbesserter Performance und Sicherheit bis hin zu geringeren Kosten und höherer Flexibilität reichen. Durch die Erzeugung statischer Seiten können Entwickler sicherstellen, dass ihre Websites schnell, sicher und einfach zu warten sind, während sie gleichzeitig eine hervorragende Benutzererfahrung bieten können.
 
+### Zusammenfassung
+Ich habe mich für Eleventy entschieden, weil es exzellente Unterstützung für Markdown bietet, flexibel ist und eine einfache Einrichtung hat. Im Vergleich zu Hugo und anderen Static Site Generators (SSGs) wie Jekyll und Gatsby punktet Eleventy durch die unkomplizierte Konfiguration und die Unterstützung verschiedener Template-Sprachen. Während Hugo für seine Geschwindigkeit bekannt ist, bietet Eleventy eine ausreichende Performance für kleinere bis mittelgrosse Projekte. Besonders attraktiv fand ich die wachsende Community und die vielen verfügbaren Plugins, die das Erweitern und Anpassen erleichtern. Die Fähigkeit, Inhalte effizient in Markdown zu verwalten, war der Hauptgrund für meine Wahl.
 ## Deployment und Hosting
 
 ### Erreichbarkeit im Internet
@@ -33,6 +35,9 @@ Ich habe GitHub Pages als Hosting gewählt, da es ein kostenloser Hosting-Dienst
 Weitere Vorteile sind automatische Deployments sowie Schnelligkeit und Zuverlässigkeit. Durch das weltweite Content Delivery Network (CDN) von GitHub stellt GitHub Pages sicher, dass die Website von überall auf der Welt schnell geladen wird. Durch die enge Integration mit Git kann jede veröffentlichte Version leicht zurückgesetzt oder geändert werden. Dies ist besonders nützlich, wenn Fehler in einer neuen Version auftreten. GitHub Pages bietet natürlich HTTPS-Unterstützung für alle bereitgestellten Seiten, was die Sicherheit der Website verbessert. GitHub Pages kann mit Static Site Generators verwendet werden, was zusätzliche Flexibilität und Anpassungsmöglichkeiten bietet.
 
 Diese Gründe machen GitHub Pages zu einer ausgezeichneten Wahl für das Hosting und Deployment, insbesondere wenn das Projekt bereits auf GitHub gehostet wird.
+### Zusammenfassung
+Für das Deployment meines Projekts habe ich GitHub Pages gewählt, weil es sich super mit GitHub-Repositorys integriert und kostenlos ist. Es unterstützt benutzerdefinierte Domains und HTTPS, was echt praktisch ist. In Kombination mit Eleventy, einem flexiblen und einfach einzurichtenden Static Site Generator, der gut mit Markdown funktioniert, ist es eine ideale Lösung.
+Im Vergleich zu anderen Optionen bietet GitHub Pages eine einfache und direkte Integration mit GitHub, ideal für kleinere Projekte. Netlify bietet zwar automatische Builds und ein komfortables Dashboard, kann aber für einfache Projekte überdimensioniert sein. Vercel ist ebenfalls schnell und einfach, bietet aber ähnliche Funktionen wie Netlify, ohne wichtigen Vorteile für mein Projekt. AWS Amplify bietet viele Funktionen und Integration mit anderen AWS-Diensten, ist jedoch komplexer einzurichten und zu verwalten. Daher habe ich mich für GitHub Pages entschieden, da es für meine Bedürfnisse ausreichend ist und die einfachste Lösung darstellt.
 
 ## Quellen und Hilfsmittel
 Validatoren (W3C HTML Validator, W3C CSS Validator, PageSpeed Insights) <br>
